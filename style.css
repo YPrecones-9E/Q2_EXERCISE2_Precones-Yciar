@@ -1,0 +1,28 @@
+body{
+	background-color: #fff0f0;
+	color: #7f323c;
+	font-family: Georgia;
+}
+h1{
+	font-family: Satisfy;
+	color: #511f27;
+	background-color: #ffe0de;
+	border-radius: 5px;
+	padding: 10px;
+}
+h3{
+	font-family: Satisfy;
+	color: #511f27;
+}
+img{
+	width: 150px;
+	border: 2px solid #ffe0de;
+}
+hr{
+	border-top:2px solid white;
+}
+.container{
+	background: rgb(241,183,182);
+	background: linear-gradient(90deg, rgba(241,183,182,1) 0%, rgba(247,203,202,1) 50%, rgba(241,183,182,1) 100%);
+	border: 2px solid #ffe0de;
+}
